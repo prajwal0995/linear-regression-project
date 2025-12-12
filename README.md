@@ -4,7 +4,9 @@ This project builds a Machine Learning Linear Regression model to predict Salary
 The workflow includes EDA, preprocessing, training, model diagnostics, cross-validation, and final evaluation.
 
 ├── Linear_Regression_Assignment.ipynb   # Jupyter Notebook
+
 ├── dataset.csv (optional)               # Your dataset if stored separately
+
 └── README.md                            # Documentation
 
 1. Project Objective
@@ -20,8 +22,11 @@ Performan
 2. Dataset Description
 The dataset contains 50 entries with:ce evaluation
 | Column     | Description                    |
+
 | ---------- | ------------------------------ |
+
 | Percentage | Student’s 10th Grade score (%) |
+
 | Salary     | Annual Salary (₹)              | 
 
 3. Exploratory Data Analysis (EDA)
