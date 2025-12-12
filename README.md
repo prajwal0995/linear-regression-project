@@ -20,10 +20,11 @@ Diagnostics
 Performan
 
 2. Dataset Description
-The dataset contains 50 entries with:ce evaluation
+The dataset contains 50 entries with:
+
 | Column     | Description                    |
 
-| ---------- | ------------------------------ |
+| ------------| ------------------------------ |
 
 | Percentage | Student’s 10th Grade score (%) |
 
