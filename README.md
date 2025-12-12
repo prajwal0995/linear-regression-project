@@ -26,12 +26,19 @@ The dataset contains 50 entries with:ce evaluation
 
 3. Exploratory Data Analysis (EDA)
 Performed:
+
 ✔ Descriptive statistics
+
 ✔ Null value check
+
 ✔ Scatter plot (Percentage vs Salary)
+
 ✔ Correlation matrix
+
 ✔ Outlier detection using Z-score
+
 ✔ Data distribution understanding
+
 Key Insights:
 Positive correlation (0.39) between percentage and salary
 Dataset contains a few outliers (425k–450k range)
@@ -51,10 +58,15 @@ m = Slope (Coefficient)
 b = Intercept
 
 6. Model Diagnostics Performed
+
 ✔ Best-fit regression line
+
 ✔ Residual plot (error distribution)
+
 ✔ Shapiro–Wilk Test for residual normality
+
 ✔ 5-Fold Cross-Validation (CV RMSE)
+
 ✔ Model accuracy metrics
 
 7. Evaluation Metrics
