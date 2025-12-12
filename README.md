@@ -22,13 +22,13 @@ Performan
 2. Dataset Description
 The dataset contains 50 entries with:
 
-| Column     | Description                    |
+| Column        | Description                         |
 
-| ------------| ------------------------------ |
+| --------------| ------------------------------ |
 
 | Percentage | Student’s 10th Grade score (%) |
 
-| Salary     | Annual Salary (₹)              | 
+| Salary       | Annual Salary (₹)                   | 
 
 3. Exploratory Data Analysis (EDA)
 Performed:
